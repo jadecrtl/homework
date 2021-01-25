@@ -1,0 +1,88 @@
+<!--Premiers pas pour l'html-->
+
+<!DOCTYPE html PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html>
+ <head>
+  <title>
+   Exemple de mon site en html
+  </title>
+ </head>
+ <body>
+  Ceci est une phrase avec un <a href="cible.html">hyperlien</a>.
+  <p>
+   Ceci est un paragraphe où il n’y a pas d’hyperlien.
+  </p>
+  <p>Pour aller sur google cliquez <a href="http://www.google.fr">ici</a>.</p>
+ </body>
+</html>
+
+
+<!--différente manière d'écrire des mots-->
+<html>
+    <head>
+        <title>first page</title>
+    </head>
+    <body>
+      <!--écrire du texte de manière classique : -->
+      <p>This is regular text </p>
+      <!--texte en gras-->  
+      <p><b>bold text </b></p>
+      <!--écrire du texte en grand-->      
+        <p><big> big text </big></p>
+      <!--écrire du texte en italique-->  
+        <p><i> italic text </i></p>
+      <!--écrire du texte en petit-->  
+        <p><small> small text </small></p>
+      <!--strong et bold sont pareils je pense-->  
+        <p><strong> strong text </strong></p>
+      <!--pareil que small je pense-->  
+        <p><sub> subscripted text </sub></p>
+      <!--pareil que small je pense-->  
+        <p><sup> superscripted text </sup></p>
+      <!--souligner du texte-->  
+        <p><ins> inserted text </ins></p>
+      <!--barrer du texte-->  
+        <p><del> deleted text </del></p>
+    </body>
+</html>
+
+
+<!--différente manière d'écrire un titre (du + grand au + petit)-->
+
+<html>
+  <head>
+    <title>first page</title>
+  </head>
+  <body>
+    <h1>This is heading 1</h1>
+    <h2>This is heading 2</h2>
+    <h3>This is heading 3</h3>
+    <h4>This is heading 4</h4>
+    <h5>This is heading 5</h5>
+    <h6>This is heading 6</h6>
+    <!--pour créer une ligne horizontale-->
+    <p>This is a paragraph</p>
+    <hr />
+    <p>This is a paragraph</p>
+    <!--pour créer un saut de ligne/un retour chariot-->
+    <p>This is a paragraph<br /> and a other paragraph</p>
+  </body>
+</html>
+
+<html>
+  <head>
+    <title>second page</title>
+  </head>
+  <body>
+    <!--exemple pour faire en sorte que le contenu d'une balise soit au milieu-->
+    <!--align est un attribut qui sert à préciser comment le texte doit être aligné -->
+    <p align="center">
+      This text is aligned to center
+    </p>
+    <!--2 manières différentes de faire une ligne horizontale mais en précisant la longueur -->
+    <hr width="500px" />
+    <hr width="50%" />    
+  </body>
+</html>
+
+    

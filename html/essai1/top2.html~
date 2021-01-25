@@ -1,0 +1,29 @@
+<!--différente manière d'écrire des mots-->
+<html>
+    <head>
+        <title>first page</title>
+    </head>
+    <body>
+      <!--écrire du texte de manière classique : -->
+      <p>This is regular text </p>
+      <!--texte en gras-->  
+      <p><b>bold text </b></p>
+      <!--écrire du texte en grand-->      
+        <p><big> big text </big></p>
+      <!--écrire du texte en italique-->  
+        <p><i> italic text </i></p>
+      <!--écrire du texte en petit-->  
+        <p><small> small text </small></p>
+      <!--strong et bold sont pareils je pense-->  
+        <p><strong> strong text </strong></p>
+      <!--pareil que small je pense-->  
+        <p><sub> subscripted text </sub></p>
+      <!--pareil que small je pense-->  
+        <p><sup> superscripted text </sup></p>
+      <!--souligner du texte-->  
+        <p><ins> inserted text </ins></p>
+      <!--barrer du texte-->  
+        <p><del> deleted text </del></p>
+    </body>
+</html>
+
