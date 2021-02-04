@@ -1,0 +1,21 @@
+<!--différente manière d'écrire un titre (du + grand au + petit)-->
+
+<html>
+  <head>
+    <title>third page</title>
+  </head>
+  <body>
+    <h1>This is heading 1</h1>
+    <h2>This is heading 2</h2>
+    <h3>This is heading 3</h3>
+    <h4>This is heading 4</h4>
+    <h5>This is heading 5</h5>
+    <h6>This is heading 6</h6>
+    <!--pour créer une ligne horizontale-->
+    <p>This is a paragraph</p>
+    <hr />
+    <p>This is a paragraph</p>
+    <!--pour créer un saut de ligne/un retour chariot-->
+    <p>This is a paragraph<br /> and a other paragraph</p>
+  </body>
+</html>
